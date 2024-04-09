@@ -1,6 +1,6 @@
 # Security-Surveillance-System
 
-![Security Surveillance System](https://media1.tenor.com/images/c6b89cb68c230e204ab7665b3a3616da/tenor.gif?itemid=3471448)
+![Security Surveillance System](https://example.com/custom_gif.gif)
 
 Welcome to our innovative Security Surveillance System project!
 
@@ -36,6 +36,3 @@ We welcome contributions from the community to further enhance and refine our Se
 ## Contact
 
 For inquiries or support regarding our Security Surveillance System, please contact us at [sairajrajput6@gmail.com].
-
----
-

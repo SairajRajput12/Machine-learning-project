@@ -1,45 +1,42 @@
-# Security-Servilliance-System
+# Security-Surveillance-System
 
+![Security Surveillance System](https://media1.tenor.com/images/c6b89cb68c230e204ab7665b3a3616da/tenor.gif?itemid=3471448)
 
----
-
-
-
-![Face Recognition](https://media1.tenor.com/images/c6b89cb68c230e204ab7665b3a3616da/tenor.gif?itemid=3471448)
-
-Welcome to our Amazing project and unque project!
+Welcome to our innovative Security Surveillance System project!
 
 ## Overview
 
-Our Face Recognition Model is a state-of-the-art deep learning model designed to recognize faces accurately and efficiently. Powered by convolutional neural networks (CNNs) and trained on large-scale datasets, our model achieves impressive performance in identifying faces across various conditions and environments.
+Our Security Surveillance System combines advanced face recognition and action recognition models to create a comprehensive solution for monitoring and detecting intrusions. Leveraging state-of-the-art deep learning techniques and MediaPipe library, our system can accurately identify faces and detect various actions such as walking, standing, running, and waving.
 
 ## Features
 
-- **High Accuracy:** Our model achieves high accuracy rates in face recognition tasks, even under challenging conditions such as varying lighting, poses, and occlusions.
-- **Fast Inference:** With optimized architectures and efficient algorithms, our model offers fast inference speeds, making it suitable for real-time applications.
-- **Robustness:** The model exhibits robustness against common challenges in face recognition, including partial occlusions, facial expressions, and variations in appearance.
-- **Easy Integration:** Our model can be easily integrated into existing systems and applications, allowing seamless integration with your projects.
+- **Face Recognition:** Our face recognition model achieves high accuracy in identifying faces, even under challenging conditions such as varying lighting and facial expressions.
+- **Action Recognition:** Using MediaPipe and machine learning algorithms, our system can detect various actions performed by individuals, allowing for enhanced surveillance capabilities.
+- **Integration with Twilio API:** In addition to facial and action recognition, our system integrates with the Twilio API to send notifications to system owners in case of intrusion detection.
+- **Smart Surveillance:** Our system intelligently detects intrusions, captures images of the intruder, and sends notifications to the system owner, providing real-time monitoring and security.
 
 ## Usage
 
-To use our Face Recognition Model, follow these steps:
+To utilize our Security Surveillance System, follow these steps:
 
-1. **Download Pre-trained Model:** Download the pre-trained model weights from the following link:
-   [Download Model](https://drive.google.com/drive/folders/14BPBpt61YAgJzOom9dcRg15XuFgucth3?usp=sharing)
+1. **Download Models:** Download the pre-trained face recognition and action recognition models from the following links:
+   - [Face Recognition Model](https://drive.google.com/drive/folders/14BPBpt61YAgJzOom9dcRg15XuFgucth3?usp=sharing)
+   - [Action Recognition Model](https://drive.google.com/drive/folders/14BPBpt61YAgJzOom9dcRg15XuFgucth3?usp=sharing)
 
+2. **Integration:** Integrate the downloaded models into your system and configure the Twilio API for notifications.
 
-2. **Inference:** Use the downloaded model to perform face recognition on your images or videos. Refer to the provided documentation for usage instructions and code examples.
+3. **Surveillance:** Deploy the system in your desired environment and start monitoring for intrusions.
 
-3. **Enjoy:** Enjoy accurate and efficient face recognition capabilities with our model!
+4. **Enjoy:** Experience enhanced security and peace of mind with our Security Surveillance System!
 
 ## Contribution
 
-We welcome contributions from the community to further improve and enhance our Face Recognition Model. Feel free to submit pull requests, report issues, or share your feedback with us.
-
+We welcome contributions from the community to further enhance and refine our Security Surveillance System. Whether it's improving model accuracy, adding new features, or optimizing performance, your contributions are valuable to us.
 
 ## Contact
 
-For any inquiries or support regarding our Face Recognition Model, please contact us at [your_email@example.com].
+For inquiries or support regarding our Security Surveillance System, please contact us at [your_email@example.com].
 
 ---
 
+Feel free to customize the content and add any additional information or links as needed. This README provides an overview of your Security Surveillance System project in an attractive and informative manner.

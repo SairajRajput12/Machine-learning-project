@@ -5,7 +5,7 @@
 
 # Face Recognition Model
 
-![Face Recognition](https://cdn.pixabay.com/photo/2016/11/08/05/27/fashion-1807514_960_720.jpg)
+![Face Recognition](https://media1.tenor.com/images/c6b89cb68c230e204ab7665b3a3616da/tenor.gif?itemid=3471448)
 
 Welcome to our Face Recognition Model repository!
 

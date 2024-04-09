@@ -7,7 +7,7 @@
 
 ![Face Recognition](https://media1.tenor.com/images/c6b89cb68c230e204ab7665b3a3616da/tenor.gif?itemid=3471448)
 
-Welcome to our Face Recognition Model repository!
+Welcome to our Amazing project and unque project!
 
 ## Overview
 

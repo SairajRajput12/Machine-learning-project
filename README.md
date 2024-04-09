@@ -39,4 +39,3 @@ For inquiries or support regarding our Security Surveillance System, please cont
 
 ---
 
-Feel free to customize the content and add any additional information or links as needed. This README provides an overview of your Security Surveillance System project in an attractive and informative manner.

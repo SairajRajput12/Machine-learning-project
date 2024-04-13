@@ -19,15 +19,25 @@ Our Security Surveillance System combines advanced face recognition and action r
 
 To utilize our Security Surveillance System, follow these steps:
 
-1. **Download Models:** Download the pre-trained face recognition and action recognition models from the following links:
+1. **Download Models:** Download the pre-trained face recognition and action recognition models from the following links and save them in Model directory:
    - [Face Recognition Model](https://drive.google.com/drive/folders/14BPBpt61YAgJzOom9dcRg15XuFgucth3?usp=sharing)
    - [Action Recognition Model](https://drive.google.com/drive/folders/14BPBpt61YAgJzOom9dcRg15XuFgucth3?usp=sharing)
 
-2. **Integration:** Integrate the downloaded models into your system and configure the Twilio API for notifications.
+2.  **Configure Twilio:** Create your account in twilio and save credential in credential.txt file
 
-3. **Surveillance:** Deploy the system in your desired environment and start monitoring for intrusions.
 
-4. **Enjoy:** Experience enhanced security and peace of mind with our Security Surveillance System!
+3. **Integration:** Integrate the downloaded models into your system and configure the Twilio API for notifications.
+
+
+4. **Surveillance:** Deploy the system in your desired environment and start monitoring for intrusions.
+
+
+5. **Enjoy:** Experience enhanced security and peace of mind with our Security Surveillance System!
+
+
+## Output: 
+
+
 
 ## Contribution
 

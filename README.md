@@ -34,9 +34,9 @@ To utilize our Security Surveillance System, follow these steps:
 
 5. **Enjoy:** Experience enhanced security and peace of mind with our Security Surveillance System!
 
+## Algorithm used: 
+this project uses **Convolutional neural network** for face recognition and also for actionr recognition. while developing that model we faced **major issue** which was related to **recognising unknown** and **known faces** means **differentiating** between them that issue i faced.so to overcome that issue we used LBWH recogniser which is the library of cv2 we used it's confidence value as a differentiating factor if the confidence value is above 90 then we can call the face is not authorised but if the face is below **90** then we can assume it as the accurate prediction. 
 
-## Output: 
-[Screenshot 2024-04-13 192739.png](https://drive.google.com/file/d/1C3uOl0pHPK_SbtQbkNAgMGpD3GnJZoOs/view?usp=drive_link)
 
 ## Contribution
 

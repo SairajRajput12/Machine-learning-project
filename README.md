@@ -36,8 +36,7 @@ To utilize our Security Surveillance System, follow these steps:
 
 
 ## Output: 
-Screenshot 2024-04-13 192739.png
-
+[Screenshot 2024-04-13 192739.png](https://drive.google.com/file/d/1C3uOl0pHPK_SbtQbkNAgMGpD3GnJZoOs/view?usp=drive_link)
 
 ## Contribution
 
